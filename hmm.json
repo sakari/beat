@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    {
+      "name": "haxe-react",
+      "type": "git",
+      "dir": "",
+      "ref": "master",
+      "url": "git@github.com:sakari/haxe-react"
+    }
+  ]
+}

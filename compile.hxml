@@ -1,0 +1,8 @@
+-js build/main-javascript.js 
+-main Main 
+-lib haxe-react
+-cp src
+-D js-flatten 
+-dce std 
+-debug 
+-D source-map-content
